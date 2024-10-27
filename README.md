@@ -6,9 +6,12 @@ With a keen eye for design and a knack for coding, I bring websites to life with
 
 🚀 Skills & Expertise:
 - HTML, CSS, JavaScript
-- Trying to learn React..
+- React
 - Responsive Design
 - UI/UX Design
+- AutoCAD
+- Marvelous Designer
+- Advanced Excel
 - Proficient in English, German and Turkish languages..
 - I also have skills in working with Adobe Photoshop
   
