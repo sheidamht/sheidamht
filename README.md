@@ -21,6 +21,7 @@ With a keen eye for design and a knack for coding, I bring websites to life with
 - Blender
 - Advanced Excel
 - Proficient in English, German and Turkish languages..
+- An English and German teacher
 - I also have skills in working with Adobe Photoshop
   
  -An additional skill I have is that I can also sing 👻
