@@ -22,7 +22,6 @@
     <span style="background: #6f42c1; color: white; padding: 8px 16px; border-radius: 20px;">Marvelous Designer</span>
     <span style="background: #28a745; color: white; padding: 8px 16px; border-radius: 20px;">Blender</span>
     <span style="background: #fd7e14; color: white; padding: 8px 16px; border-radius: 20px;">Proficient in English, German, Turkish</span>
-    <span style="background: #17a2b8; color: white; padding: 8px 16px; border-radius: 20px;">English & German Teacher</span>
     <span style="background: #dc3545; color: white; padding: 8px 16px; border-radius: 20px;">Adobe Photoshop</span>
   </div>
 
