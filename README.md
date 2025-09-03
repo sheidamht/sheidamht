@@ -1,6 +1,4 @@
-<span style="text-align: center; padding: 10px; background: #17a2b8; color: white; border-radius: 10px; margin: 5px;">
-      👩‍🏫<br>English & German Teacher
-    </span>
+
     <span style="text-align: center; padding: 10px; background: #dc3545; color: white; border-radius: 10px; margin: 5px;">
       <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50">
       <br>Adobe Photoshop
