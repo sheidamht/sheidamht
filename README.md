@@ -5,22 +5,17 @@ With a keen eye for design and a knack for coding, I bring websites to life with
 - HTML, CSS, JavaScript
 - Bootstrap
 - Css Preprocessor: Sass
-- Package Managers: npm , yarn
 - React
 - Responsive Design
 - UI/UX Design
 - AutoCAD
-- Adobe Illustrator
-- Canva
-- GraphQL
-- Webflow
 - Marvelous Designer
 - Blender
 - Advanced Excel
 - Proficient in English, German and Turkish languages..
 - I also have skills in working with Adobe Photoshop
   
- -An additional skill I have is that I can also sing 👻
+ I can also sing and swim 👻
 
 🩷 Let's Connect:
 
