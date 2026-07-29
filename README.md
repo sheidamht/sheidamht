@@ -9,9 +9,9 @@ With a keen eye for design and a knack for coding, I bring websites to life with
 - Responsive Design
 - UI/UX Design
 - Advanced Excel
+- Adobe Photoshop
 - Figma
 - Proficient in English, German and Turkish languages..
-- I also have skills in working with Adobe Photoshop
 - 
 🩷 Let's Connect:
 
