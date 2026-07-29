@@ -12,9 +12,7 @@ With a keen eye for design and a knack for coding, I bring websites to life with
 - Figma
 - Proficient in English, German and Turkish languages..
 - I also have skills in working with Adobe Photoshop
-  
- I can also sing and swim 👻
-
+- 
 🩷 Let's Connect:
 
 Looking to collaborate on a project or just chat about the latest frontend trends?
