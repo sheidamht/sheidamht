@@ -8,10 +8,8 @@ With a keen eye for design and a knack for coding, I bring websites to life with
 - React
 - Responsive Design
 - UI/UX Design
-- AutoCAD
-- Marvelous Designer
-- Blender
 - Advanced Excel
+- Figma
 - Proficient in English, German and Turkish languages..
 - I also have skills in working with Adobe Photoshop
   
